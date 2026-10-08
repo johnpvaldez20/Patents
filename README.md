@@ -1,2 +1,0 @@
-# Patents
-List of Patents
